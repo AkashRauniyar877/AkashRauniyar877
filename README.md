@@ -104,11 +104,11 @@ public:
 <p align="center">
 
 <a href="https://leetcode.com/AkashRauniyar877">
-  <img src="https://img.shields.io/badge/LeetCode-290%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-110%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.codechef.com/users/akash_877ak">
-  <img src="https://img.shields.io/badge/CodeChef-600%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-410%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/akash_877ak">
