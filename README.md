@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akashr%20Rauniyari&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20|%20MERN%20Stack%20Learner%20|%20DSA%20Enthusiast&descAlignY=52&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akash%20Rauniyar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20|%20MERN%20Stack%20Learner%20|%20DSA%20Enthusiast&descAlignY=52&descSize=18" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
